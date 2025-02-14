@@ -11,7 +11,6 @@ An endless runner game built with **Next.js** and **Tailwind CSS** that leverage
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Tags](#tags)
 
 ## Features
 
